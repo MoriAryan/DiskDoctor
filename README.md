@@ -12,9 +12,9 @@ DiskDoctor is a lightweight Rust CLI that scans your storage, finds duplicate fi
 
 ---
 
-## Demo
+## Demo (link: https://drive.google.com/file/d/1ALtN6c7T9mz4ivUEOtGRc6bt6vU9qObU/view?usp=drive_link)
 
-<video src="assets/demo.mp4" width="600" muted loop autoplay controls ></video>
+<video src="assets/demo.mp4" width="600" controls ></video>
 
 ---
 
