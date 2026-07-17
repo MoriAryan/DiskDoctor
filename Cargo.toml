@@ -1,0 +1,15 @@
+[package]
+name = "diskdoctor"
+version = "0.1.0"
+edition = "2021"
+description = "A CLI utility that scans directories and helps users understand where storage is being wasted"
+authors = ["Student Developer"]
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
+walkdir = "2"
+sha2 = "0.10"
+indicatif = "0.17"
+colored = "2"
+dialoguer = "0.11"
+anyhow = "1"
