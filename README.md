@@ -1,6 +1,6 @@
 # DiskDoctor
 
-I was about to download a large file when Windows politely reminded me that my C: drive had other plans.
+I was about to download a large file when Windows politely reminded me that my C: drive had other plans
 
 After digging through folders manually and trying a few disk cleanup tools, I realized most of them either felt cluttered or jumped straight to deleting things. I wanted something simpler: a tool that tells me **what deserves my attention**, while leaving the final decision to me.
 
