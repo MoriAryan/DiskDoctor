@@ -1,4 +1,4 @@
-# DiskDoctorr
+# DiskDoctor
 
 I was about to download a large file when Windows politely reminded me that my C: drive had other plans.
 
